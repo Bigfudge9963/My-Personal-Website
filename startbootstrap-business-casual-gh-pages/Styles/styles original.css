@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(rgba(201, 201, 201, 0.65), rgba(185, 185, 185, 0.65)), url("../assets/img/peaceful.2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+.footer {
+    background-color: rgba(79, 166, 238, 0.767);
+}
+.cta {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(79,166,238,0.767);
+  }
+.Button {
+    background-color: rgb(79, 166, 238);
+}
+.visible1{
+    text-emphasis-color: rgba(66, 66, 66, 0);
+}
+.spacing{
+    margin-top: 150px;
+}
+.background{
+    color:rgb(79, 166, 238) ;
+}
+.mid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.mr-1{
+    margin-right: auto;
+}
